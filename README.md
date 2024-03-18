@@ -12,6 +12,3 @@ O projeto consiste em classes Java para representar autores, editoras e livros, 
 - Editora: Representa uma editora de livros, com nome e cidade.
 - Livro: Representa um livro, com título, número de páginas, valor, autor e editora.
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
